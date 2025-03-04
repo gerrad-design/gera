@@ -1,0 +1,1 @@
+<button type="button" onclick='document.getElementById("demo").innerHTML = "F1 updates 2025"'>Click Me!</button>
